@@ -10,5 +10,5 @@ default:
     extensions:
         Ubirak\RestApiBehatExtension\Extension:
             rest:
-                base_url: http://localhost:8888
+                base_url: https://uat.myelx.com/
                 store_response: true
